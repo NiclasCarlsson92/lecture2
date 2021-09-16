@@ -11,5 +11,7 @@ public class Main {
         // Not necessary..
         int i = 0;
         int j = 1;
+
+        System.out.println("Changed");
     }
 }
